@@ -16,16 +16,25 @@ Entrevistas con el Product Manager
 Testeo del Flujo del Producto original
 
 
-Benchmark
+[Benchmark](https://docs.google.com/document/d/1S7CZdoKlb1XgHVr8yJh2TCpupnjdJf2Xw2jpZGcwvZY/edit?usp=sharing)
 
 
-Encuesta a 88 personas
+Encuesta a 88 personas de las cuales se obtuvo la siguiente información relevante: 
+![encuesta 1](https://github.com/rxmstrd/cdmx_2018_01_ux_financial_app.md/blob/master/untitled%20folder/edades.jpg?raw=true)
+![encuesta 1](https://github.com/rxmstrd/cdmx_2018_01_ux_financial_app.md/blob/master/untitled%20folder/genero.jpg?raw=true)
+![encuesta 1](https://github.com/rxmstrd/cdmx_2018_01_ux_financial_app.md/blob/master/untitled%20folder/ocupaci%C3%B3n.jpg?raw=true)
+![encuesta 1](https://github.com/rxmstrd/cdmx_2018_01_ux_financial_app.md/blob/master/untitled%20folder/dondeahorras.jpg?raw=true)
+![encuesta 1](https://github.com/rxmstrd/cdmx_2018_01_ux_financial_app.md/blob/master/untitled%20folder/noahorra.jpg?raw=true)
+
+
+[Recopilación de información de encuestas previas sobre hábito de ahorro en México](https://docs.google.com/document/d/1yY_wnaDPDdmbvFwjqmXVguuoSeQ6_bnaJB3meoQH2nA/edit?usp=sharing)
 
 
 Entrevista informal sobre hábitos de ahorro a 3 personas
 
 
-Testeo del rediseño de la App para IOS
+
+[Testeo del rediseño de la App para IOS](https://docs.google.com/document/d/1SqIq8yd0Cfr8W47XH19w67wcfot0z0F0hXwcRKDc-Xg/edit?usp=sharing)
 
 https://www.useloom.com/share/84de1b32a197423ba0ad1ee96b34ba76
 
@@ -55,6 +64,8 @@ A nivel de negocio se detectó que se desarrolló una aplicación para un sector
 Las personas no identificaban que la aplicación fuera de una institutción bancaria específica.
 
 Se perdía gran candidad de posibles usuarios durante todo el funnel:
+
+![funnel 1](https://github.com/rxmstrd/cdmx_2018_01_ux_financial_app.md/blob/master/untitled%20folder/perdidas.jpg?raw=true)
  
 
 ## Problemas encontrados tanto a nivel de usuario:
@@ -95,7 +106,7 @@ Flujo: Se encontró que el menú de la aplicación, no era intuitivo, faltaba me
 
 ## Qué modificaciones se deberían hacer
 
-Landing page
+[Landing page](https://page-preview.instapage.com/preview/8fc31aeac459672d8847548669ef8db114bff3301c62e68ac2b4769ddbf717e3?displayMode=0&version=2&featureMode=2&variation=A&hotspotId=null)
 
 
 Segmentar las impresiones de fb
@@ -105,6 +116,14 @@ El flujo del registro de usuario
 
 
 Agregar la propuesta de valor
+
+## Propuesta
+
+![final 1](https://github.com/rxmstrd/cdmx_2018_01_ux_financial_app.md/blob/master/untitled%20folder/1registro.png?raw=true)
+![final 1](https://github.com/rxmstrd/cdmx_2018_01_ux_financial_app.md/blob/master/untitled%20folder/2tiposusuario.png?raw=true)
+![final 1](https://github.com/rxmstrd/cdmx_2018_01_ux_financial_app.md/blob/master/untitled%20folder/26regitro.png?raw=true)
+![final 1](https://github.com/rxmstrd/cdmx_2018_01_ux_financial_app.md/blob/master/untitled%20folder/42ahorro.png?raw=true)
+
 
 
 ## Cuáles deberían ser los próximos desarrollos
