@@ -22,10 +22,12 @@ Benchmark
 Encuesta a 88 personas
 
 
-Entrevista sobre hábitos de ahorro a 3 personas
+Entrevista informal sobre hábitos de ahorro a 3 personas
 
 
 Testeo del rediseño de la App para IOS
+
+https://www.useloom.com/share/84de1b32a197423ba0ad1ee96b34ba76
 
 
 ## Objetivos iniciales del proyecto:
