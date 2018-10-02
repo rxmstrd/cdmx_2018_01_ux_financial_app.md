@@ -15,7 +15,8 @@ Entrevistas con el Product Manager
 
 Testeo del Flujo del Producto original
 
-[Coustomer Journey Map](https://github.com/rxmstrd/cdmx_2018_01_ux_financial_app.md/blob/master/untitled%20folder/appfinanciera.png?raw=true)
+Coustomer Journey Map:
+![journey 1](https://github.com/rxmstrd/cdmx_2018_01_ux_financial_app.md/blob/master/untitled%20folder/appfinanciera.png?raw=true)
 
 
 [Benchmark](https://docs.google.com/document/d/1S7CZdoKlb1XgHVr8yJh2TCpupnjdJf2Xw2jpZGcwvZY/edit?usp=sharing)
@@ -84,6 +85,11 @@ Flujo: Se encontró que el menú de la aplicación, no era intuitivo, faltaba me
 
 
 ## Recomendaciones de próximos pasos para el banco con respecto al app:
+
+Con la información recopilada en la investigación se realizaron dos users personas:
+![userp 1](https://github.com/rxmstrd/cdmx_2018_01_ux_financial_app.md/blob/master/untitled%20folder/ximena.jpg?raw=true)
+![userp 1](https://github.com/rxmstrd/cdmx_2018_01_ux_financial_app.md/blob/master/untitled%20folder/Daniel.jpg?raw=true)
+
   
   No aumentar Anuncios en FB hasta:
   
