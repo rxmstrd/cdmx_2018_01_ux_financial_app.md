@@ -15,6 +15,8 @@ Entrevistas con el Product Manager
 
 Testeo del Flujo del Producto original
 
+[Coustomer Journey Map](https://github.com/rxmstrd/cdmx_2018_01_ux_financial_app.md/blob/master/untitled%20folder/appfinanciera.png?raw=true)
+
 
 [Benchmark](https://docs.google.com/document/d/1S7CZdoKlb1XgHVr8yJh2TCpupnjdJf2Xw2jpZGcwvZY/edit?usp=sharing)
 
@@ -130,6 +132,11 @@ Agregar la propuesta de valor
 
 Desarrollo de app para android.
 
+
+Sistema de notificaciones por mensaje.
+
+Chat para aseoría sobre tipos de inversiones y seguros
+
 ## En qué se debería invertir el presupuesto de marketing
 
 El presupuesto debe invertirse en:
@@ -152,6 +159,16 @@ https://www.useloom.com/share/5936dc55f11c4ceba4b78a1108d7c652
 
 https://www.useloom.com/share/3ffbb9b758eb417aad24e44d5775fd0b
 
+
+## Aprendizajes:
+
+-Usos y tipos e Landing pages
+
+-Análisis de data
+
+-Cultura del Ahorro en México
+
+-Desarrollo de Apps en IOS y Android
 
 
 
