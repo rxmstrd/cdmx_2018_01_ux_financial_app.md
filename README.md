@@ -2,238 +2,137 @@
 
 ## Preámbulo
 
-El banco más importante del país ha lanzado una nueva aplicación móvil al
-mercado para que sus usuarios puedan visualizar sus gastos mensuales y fomentar
-el ahorro. Luego de tener algunos meses en el mercado, el
-equipo detrás de este nuevo producto ha decidido contratar a una
-agencia/consultora de UX que los ayude a definir la dirección y evolución del
-producto. Tú has sido elegida como la consultora líder de UX y se te ha asignado el proyecto para hacer un diagnóstico, evaluar el desempeño de la aplicación y proponer los cambios necesarios para optimizar el producto.
+
+El banco más importante del país ha lanzado una nueva aplicación móvil al mercado para que sus usuarios puedan visualizar sus gastos mensuales y fomentar el ahorro. Luego de tener algunos meses en el mercado, el equipo detrás de este nuevo producto ha decidido contratar a una agencia/consultora de UX que los ayude a definir la dirección y evolución del producto. 
 
 
-## Introducción
+## Investigación:
 
-### Contexto
+Una vez recibida la información de la aplicación se realizaron las siguiente actividades:
 
-Durante la primera semana de entendimiento de los requerimientos, el Product
-Manager del equipo les brinda el contexto:
+Entrevistas con el Product Manager
 
->“Todo empezó hace un año cuando vimos que en EEUU y Europa estaban saliendo
-  nuevas aplicaciones financieras que nos llamaron la atención. Unas se enfocan
-  en darle visibilidad a sus usuarios sobre los gastos, otras en facilitar pagos
-  a terceros y otras a fomentar el ahorro. Inspirados en un par de ellas,
-  decidimos lanzar una nueva aplicación. Decidimos que era mejor crear un
-  producto desde cero - en lugar de modificar la aplicación actual de banca
-  móvil - para poder desarrollarla con un equipo totalmente nuevo, en el
-  laboratorio de innovación, bajo prácticas ágiles. Sabemos que no es ideal que
-  nuestros usuarios tengan que usar dos aplicaciones, pero desarrollar con un
-  equipo nuevo que corra ágil nos da mayor libertad.
 
-> Empezamos entrevistando a algunos usuarios y revisando los resultados de un
-  estudio de mercado que nos proporcionó el área de marketing. Eso nos dió una
-  idea inicial de qué funcionalidades son más relevantes aquí en nuestro
-  mercado. Con base en esos resultados, creamos nuestros primeros user personas
-  una primaria y una secundaria ( creemos que estas personas no son las que
-  nosotros pensábamos inicialmente), y diseñamos y desarrollamos un ‘Producto
-  mínimo viable’ (MVP) en 2 meses en iOS. Ese MVP lo hemos lanzado y tenemos
-  alrededor de 6 meses de data. Hoy estamos en el proceso de entender los
-  resultados iniciales y de sacar una segunda iteración del producto. Y para eso
-  las hemos contratado. Toda la documentación de este producto la tenemos en una
-  carpeta de [Google Drive](https://drive.google.com/drive/u/0/folders/1NWf4701uKDsCK0eLNI8RXEocrI1g1zqd). Les doy acceso.
+Testeo del Flujo del Producto original
 
-> Necesitamos traer una propuesta del nuevo diseño en dos semanas porque tenemos
-  que presentarla a nuestro Gerente General en la reunión trimestral. Es
-  importante que cualquier cosa que presentemos ya incorpore feedback de testing
-  con usuarios. El Gerente General, animado por el crecimiento del número de
-  descargas que ha tenido el app, quiere duplicar el presupuesto de Facebook
-  Ads… Yo no estoy tan seguro; quisiera que como parte de su trabajo estas
-  próximas dos semanas, entendamos ese punto también.”
 
-![preview app de finanzas](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
+Benchmark
 
-### Recursos
 
-En esta carpeta de [Google Drive](https://drive.google.com/drive/u/0/folders/1NWf4701uKDsCK0eLNI8RXEocrI1g1zqd) y en los siguientes
-links, encontrarán:
+Encuesta a 88 personas
 
-- Los user persona primario y secundario del proyecto
-- Los user flows iniciales y actuales del proyecto del MVP
-- El [diseño del app en Figma](https://www.figma.com/file/Gr5GEIRrjF9eIplIeEHUSJNt/proyecto-2-banca?node-id=0%3A477)
-  , con una guía de componentes y el [Prototipo navegable](https://marvelapp.com/e9h245e)
-- Funnel Analytics de los primeros 6 meses del MVP
-- Data de uso del MVP de los primeros 6 meses
-- [Landing Page](http://tus-finanzas.pagedemo.co) inicial del producto
 
-## Objetivos de aprendizaje
+Entrevista sobre hábitos de ahorro a 3 personas
 
-El objetivo principal de este proyecto es que te enfrentes al reto de rediseñar
-un producto ya existente. Muchas de ustedes terminarán trabajando en productos
-existentes y deben estar familiarizadas con el proceso de analizar la data del
-producto, complementar con investigación de campo y con esto definir una
-estrategia de crecimiento del producto. Puedes leer sobre el trabajo de un
-UX Designer en rediseño este [blogpost](https://blog.continuum.cl/preguntas-para-dejar-de-ser-ux-designer-y-empezar-a-ser-un-ux-redesigner-143e5467ec8d).
 
-En este proyecto pondrás en práctica habilidades de: análisis de datos,
-investigación de campo, pensamiento crítico, cuestionamiento, síntesis, diseño
-de componentes de la interfaz y user testing.
+Testeo del rediseño de la App para IOS
 
-## Consideraciones generales
 
-Como ya habrás notado, gran parte del trabajo de UX tiene relación con el
-desempeño de tus habilidades blandas. Estas habilidades nos acompañan a lo largo
-de cualquier proyecto y su desarrollo es clave para el éxito. Estas habilidades
-no sólo son utilizadas a la hora de entender al usuario, sino a lo largo de toda
-la ejecución, es decir desde cómo planificamos hasta nuestra presentación al
-cliente.
+## Objetivos iniciales del proyecto:
 
-Anteriormente, nos habíamos concentrado en el desarrollo de tu curiosidad y
-empatía, practicado cómo relacionarte con el cliente y el usuario. Siempre debes
-pensar quiénes son y qué necesitan, y no enfocarte en lo que tú consideras que
-podría ser la solución correcta. Se trata de entender que nosotros no somos el
-usuario, y debemos hacer el ejercicio empático de comprenderlo a él y a nuestro
-cliente.
+1.- Verificar  que las user personas iniciales del proyecto sean las correctas
 
-Este proyecto, a diferencia de otros, no debes partir desde cero generando un
-prototipo, sino investigar lo que el banco ya ha construido y en base a eso
-proponer un nueva alternativa. Para esto, te aconsejamos comenzar por investigar
-la información que tienes; entender qué datos ya manejas y qué elementos
-necesitas averiguar para completar tu proyecto. De esta manera, tu planificación
-es muy relevante para comprender la problemática.
 
-Al planificar podrás comprender de qué manera estructurar tu proyecto y qué
-elementos debes investigar. Además, te permitirá trabajar de mejor manera con tu
-compañera, te aconsejamos que consideres tiempo para poder iterar sobre las
-posibilidades de mejora y también para preparar la presentación.
+2.-Analizar el desempeño de la aplicación durante los 6 meses previos
 
-La calidad del proyecto depende totalmente de tu proactividad y autoaprendizaje,
-si no conoces plataformas financieras parte por investigar sobre ellas. No
-esperes que los contenidos lleguen a ti, más bien busca todo lo que necesites
-para poder encontrar la mejor solución.
 
-Parte importante de tu trabajo como UX designer es tomar decisiones.
-Efectivamente existen múltiples herramientas que puedes utilizar, debes
-comprender para qué y con qué finalidad escoges usar cada una de ellas. Siempre
-piensa que debes justificar todo gasto con tu con consultora y el cliente, cada
-desición que tomes en el proyecto debe ser fundamentada, no sigas pasos
-mecánicos por seguirlos, cuestiónate constantemente.
+3.-Fomentar una cultura de ahorro
 
-Por último, considera que la calidad de tu presentación es tan importante como
-el proceso completo. Un proyecto que no se aprecia al ser presentado no es un
-buen proyecto. Si vas a utilizar una ppt frente a un cliente, se prolija en el
-diseño de tus láminas y en la información que entregas, también busca la mejor
-manera de mostrar tu demo y por sobre todo prueba antes de presentar frente al
-cliente. En la presentación no deben ocurrir errores.
 
-## Entrega
+4.- Aumentar el número de clientes
 
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
 
-README.md  detallando:
+5.- Diferenciarse de otros bancos y ofrecer un plus a los cuentahabientes con ésta app.
 
-* Objetivos iniciales del proyecto
-* Problemas encontrados tanto a nivel de negocio como a nivel de usuario
-* Recomendaciones de próximos pasos para el banco con respecto al app (estas
-  recomendaciones tendrán que ser sustentadas por tu investigación):
-  * Qué modificaciones se deberían hacer
-  * Cuáles deberían ser los próximos desarrollos
-  * En qué se debería invertir el presupuesto de marketing
-* De acuerdo al punto anterior, de requerirse cambios y desarrollos nuevos,
-  estos deberán ser diseñados y entregados en un prototipo de alta definición.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores
 
-Un video en Loom de máximo 5 minutos explicando tu documento.
-* Estos 5 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución propuesta.
 
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso.
+## Problemas encontrados tanto a nivel de negocio: 
 
-### Hacker edition
+A nivel de negocio se detectó que se desarrolló una aplicación para un sector pequeño del univero de usuarios interesados en éste tipo de aplicaciones.
 
-Para el hacker edition puedes elegir una o varias de estas opciones:
+Las personas no identificaban que la aplicación fuera de una institutción bancaria específica.
 
-- Antes de empezar a desarrollar este proyecto, lista cuáles fueron tus
-  aprendizajes durante el proyecto 1 y en qué cosas te gustaría mejorar durante 
-  el proyecto 2. Al terminar el proyecto 2 vuelve a esta lista y chequea cómo te 
-  fue con esos retos, ¿los cumpliste? Muestrános esta lista y esta reflexión
-  en un documento adicional (en el formato que prefieras).
-- Investiga sobre chatbots y sustenta si sería bueno incluir uno en alguna parte
-  del journey del uso del producto. Si crees que un chatbot añadiría valor,
-  prototípalo usando [Botsociety](http://bit.ly/ux-chatbot).
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
-  tu propia web desde 0. 
-- Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarróllalos
-  utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y
-  JS. Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene
-  que ser mobile-friendly. Despliega el código en GitHub Pages o Heroku.
-- Escribe un post en Medium contando tu proceso de investigación.
-- Crea un video mostrando el demo del app, aquí algunos ejemplos:
-  - [Genius Scan](https://youtu.be/wKqnB6_Z-J0)
-  - [Nequi](https://www.youtube.com/watch?v=BDLAXvSQCZ8)
-  - [Simple Bank](https://www.youtube.com/watch?v=0eqD5o6422M)
-  - [Pocket](https://www.youtube.com/watch?v=MoJHYNKmS2U)
+Se perdía gran candidad de posibles usuarios durante todo el funnel:
+ 
 
-## Otras consideraciones
+## Problemas encontrados tanto a nivel de usuario:
 
-### 1) Planeamiento y presupuesto
+Segmentación: Debido a que la inversión en Facebook no estaba segmentada correctamente un alto porcentaje de personas que descargaban la aplicación no podías utilizarlas por ser usuarios de Android.
 
-En el reto del marketplace elegiste las tareas que podías
-realizar deacuerdo a una lista con puntajes predeterminados que te proporcionamos. Para este reto,
-la lista de tareas, el valor en puntos de cada tarea y el presupuesto total
-de las actividades a realizar lo crearás tú y lo tendrás que sustentar con tu
-coach. Adicionalmente, deberás sustentar con tu coach qué entregables harás
-llegar al banco al final de tu investigación y por qué. El coach te aprobará
-estos entregables o te dará feedback para mejorarlos.
 
-Cuando hagas tu presupuesto y pienses en los entregables recuerda que el tiempo
-de desarrollo de este proyecto es de dos semanas. También, recuerda qué partes
-te tomaron más tiempo en el desarrollo del proyecto 1 y los aprendizajes que
-tuviste al desarrollar el proyecto 1.
+Flujo landing: Al navegar en la landing page no encontraban información sobre el sistema operativo de la aplicación, además ésta landing page no permitía realizar la descarga con el primer "call to action", si no que obligaba a un recorrido de toda la página al visitante. 
+La información sobre la descarga no era adecuada pues se solicitaba nombre y correo para enviar un link de descarga, pero al dar click en el botón de descarga envíaba directamente a la app store, a la descarga de la aplicación.
 
-### 2) Prototipo de alta fidelidad
+Registro: La aplicación solicitaba el número de cuenta para realizar el registro siendo un primer obstáculo para registrarse en cualquier momento, pedía generar un perfil que el usuario no utilizaba y el proceso de registro se llevaba a cabo en 5 pasos.
 
-Existen varias herramientas que puedes utilizar para crear diseñar el producto,
-en este caso el diseño viene en Figma y el prototipo en Marvel, así que puedes
-seguir usando esas herramientas. Sin embargo, eres libre de utilizar otras
-como Adobe XD e Invision. Para el prototipo intenta utilizar Marvel o Invision,
-ya que para el testing tendrás que usar una herramienta llamada
-[Maze](https://maze.design/) que funciona mejor con estas.
+Flujo: Se encontró que el menú de la aplicación, no era intuitivo, faltaba mejorar la navegaciones con botones para volver o deslogearse.
 
-Recuerda que el diseño que trabajes debe seguir los fundamentos de diseño visual
-como: contraste, alineación, jerarquía, entre otros.
 
-## Evaluación
+## Recomendaciones de próximos pasos para el banco con respecto al app:
+  
+  No aumentar Anuncios en FB hasta:
+  
+  
+1.- Mejorar la Segmentación de FB
 
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad
-y cada nivel. A continuación presentamos los niveles esperados de cada habilidad
-que deberías alcanzar al finalizar este proyecto:
 
-### UX Design
+2.-Mejorar Landing Page para búsquedas en Google
 
-|Habilidad|Nivel Esperado|
-|:---|:---:|
-|User centricity| 5 |
-|Planificación| 4 |
-|Entrevistas y testing| 4 |
-|Observación| 4 |
-|Síntesis de resultados| 4 |
-|Flujos de usuario| 4 |
-|Arquitectura de la información| 3 |
-|Prototyping| 5 |
-|Business mindset| 5 |
-|Visual Design| 4 |
 
-### Soft skills
+3.- Eliminar Landing Page de impresiones de Fb
 
-|Habilidad|Nivel Esperado|
-|:---|:---:|
-|Planificación y organización| 4 |
-|Autoaprendizaje| 4 |
-|Solución de Problemas| 4 |
-|Dar y recibir feedback| 4 |
-|Adaptabilidad| 4 |
-|Trabajo en equipo (trabajo colaborativo y responsabilidad)| 4 |
-|Comunicación eficaz| 4 |
-|Presentaciones| 4 
+
+4.- Mejorar el Registro de Usuarios, Flujos y Ahorros
+
+
+5.- Ofrecer Aplicación para usuarios de otros segmentos (Android)
+
+
+6.-Agregar funciones entre ellas recordatorios de pagos de tarjetas de Crédito y/o Créditos- Como Plus y Fidelización.
+
+
+## Qué modificaciones se deberían hacer
+
+Landing page
+
+
+Segmentar las impresiones de fb
+
+
+El flujo del registro de usuario
+
+
+Agregar la propuesta de valor
+
+
+## Cuáles deberían ser los próximos desarrollos
+
+Desarrollo de app para android.
+
+## En qué se debería invertir el presupuesto de marketing
+
+El presupuesto debe invertirse en:
+
+Segmentación a usuarios de entre 24  34 años, usuarios de i-phone.(No aumentar la inversión en FB, solo segmentarla adecuadamente)
+
+
+Invertir en SEO (Search Engine Optimization)para aparecer primero en el ranking de Google, sin hacer publicidad. Mejorar la configuración del sitio, colocar contenidos que hablen de manera  a profundidad de la aplicación, de sus beneficios y de cómo se ditingue entre otra aplicaciones. 
+
+
+Pagar publicidad de google para que la landing page aparezca primero en el ranking de Búsqueda.
+
+
+  
+## Link de Marvel:
+https://marvelapp.com/3686828/screen/48448070
+
+## video en Loom 
+https://www.useloom.com/share/5936dc55f11c4ceba4b78a1108d7c652
+
+https://www.useloom.com/share/3ffbb9b758eb417aad24e44d5775fd0b
+
+
+
+
+
+
