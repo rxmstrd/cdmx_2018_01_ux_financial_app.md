@@ -160,6 +160,10 @@ Pagar publicidad de google para que la landing page aparezca primero en el ranki
 ## Link de Marvel:
 https://marvelapp.com/3686828/screen/48448070
 
+Aplicación de Feedback en Prototipo
+
+https://marvelapp.com/60f7397/screen/48903399
+
 ## video en Loom 
 https://www.useloom.com/share/5936dc55f11c4ceba4b78a1108d7c652
 
