@@ -1,6 +1,6 @@
 # Aplicación financiera "Tus Finanzas"
 
-Tus finanzas tiene como objetivo fomentar una cultura de ahorro en México, aumentar el número de clientes y diferenciarse de otros bancos con ésta aplición.
+Tus finanzas tiene como objetivo fomentar una cultura de ahorro en México, aumentar el número de clientes y diferenciarse de otros bancos con ésta aplicación.
 
 ## Propuesta
 
